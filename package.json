@@ -1,5 +1,5 @@
 {
-  "name": "taliesin12345-palindrome",
+  "name": "my-palindrome",
   "version": "0.1.0",
   "description": "Palindrome detector",
   "main": "index.js",
